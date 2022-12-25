@@ -18,3 +18,5 @@
 - `html/css/js 기초` 
 - `마인크래프트 Script` 
 - `LuaScript(네코랜드라는 플랫폼)`
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=miswwer)](https://solved.ac/miswwer)
