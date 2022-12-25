@@ -6,7 +6,7 @@
 
 개발경험
 - `JAVA`
-- `Python`
+- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 - `Unity(C#)`
 - `React 기초`
 - `html/css/js 기초` 
