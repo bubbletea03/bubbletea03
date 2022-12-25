@@ -6,7 +6,7 @@
 
 개발경험
 - `JAVA`
-- `Python`
+- <img src="https://simpleicons.org/icons/python.svg"/>`Python`
 - `C`
 - `Unity(C#)`
 - `React 기초`
