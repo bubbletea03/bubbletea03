@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**bubbletea03/bubbletea03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+아티클
+<a href="https://blog.naver.com/bubbletea03/222950989285">1학년 2학기 파이썬 프로젝트</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+개발경험
+- `JAVA`
+- `Python`
+- `Unity(C#)`
+- `React 기초`
+- `html/css/js 기초` 
+- `마인크래프트 Script` 
+- `LuaScript(네코랜드라는 플랫폼)`
