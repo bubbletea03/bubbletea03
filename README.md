@@ -2,8 +2,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbubbletea03)](https://hits.seeyoufarm.com)
 
-[![bubbletea03's github stats](https://github-readme-stats.vercel.app/api?username=bubbletea03)](https://github.com/bubbletea03)
-
 
 ### 아티클
 - <a href="https://blog.naver.com/bubbletea03/222965469584">1학년 2학기 자바 팀플 후기</a>
