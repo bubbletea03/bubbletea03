@@ -12,14 +12,10 @@
 
 
 ### 개발경험
-- `JAVA`
-- `Python`
-- `C`
-- `Unity(C#)`
-- `React 기초`
-- `html/css/js 기초` 
-- `마인크래프트 Script` 
-- `LuaScript(네코랜드라는 플랫폼)`
+- `JAVA` `Python` `C`
+- `Unity C#`
+- `React 기초` `HTML/CSS/JS 기초` 
+- `마인크래프트 Script` `LuaScript(네코랜드라는 플랫폼)`
 
 <br>
 
