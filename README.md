@@ -1,12 +1,23 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbubbletea03)](https://hits.seeyoufarm.com)
 
-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/372dfe5550512c1b2e7e3649ea92a5cbadeec44a51c3b2bf822fe2a7a22c13d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d3030373339363f7374796c653d666c61742d737175617265266c6f676f3d4a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-007396?style=flat-square&amp;logo=Java&amp;logoColor=white" style="max-width: 100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/b2430369f0f7a980641add7801269704b5b754caacac723891e5155e28ab2581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/b2430369f0f7a980641add7801269704b5b754caacac723891e5155e28ab2581/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=Python&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/c627263bfde5e853eef76b088f380460a4f2f2d909175eee6a77b42ca1a041c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f7374796c653d666c61742d737175617265266c6f676f3d43266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/c627263bfde5e853eef76b088f380460a4f2f2d909175eee6a77b42ca1a041c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d4138423943433f7374796c653d666c61742d737175617265266c6f676f3d43266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=C&amp;logoColor=white" style="max-width: 100%;"></a>
-- `Unity C#`
-- `React` `HTML/CSS/JS` 
-- `Minecraft Script` `LuaScript`
+## 📜 Tech Stack
 
-<br>
+### Proficient in
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=20232A)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=283593)
+
+### Tools
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square)
+![Codex](https://img.shields.io/badge/Codex-303030?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=miswwer)](https://solved.ac/miswwer)
